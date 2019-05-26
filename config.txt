@@ -1,5 +1,5 @@
-﻿token= NTczMTQzMjgwMTQxOTkxOTcx.XMmjSw.uW_2Vb60Kx84-yvTlgtaTJ95CEM
-owner= 505072087287726090
+token= NTgyMjkwMDk2NDM5NTU4MTQ4.XOrp-A.jtUKP_MLdphvcqmV-RrmCYOttI0
+owner= 508193960783511553
 prefix= 1
 game= Type 1Play
 stayinchannel=true
