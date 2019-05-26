@@ -1,0 +1,6 @@
+﻿token= NTczMTQzMjgwMTQxOTkxOTcx.XMmjSw.uW_2Vb60Kx84-yvTlgtaTJ95CEM
+owner= 505072087287726090
+prefix= 1
+game= Type 1Play
+stayinchannel=true
+songinstatus=false
